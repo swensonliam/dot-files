@@ -210,5 +210,6 @@ client.focused		 "#b5bd68"  "#b5bd68"  "#b5bd68"  "#b5bd68"  "#b5bd68"
 #client.focused_inactive  "#23242a"  "#000000"  "#666666"  "#000000"  "#999999"
 #client.unfocused	  "#666666"  "#fff5e5"  "#666666"  "#000000"  "#999999"
 
+gaps inner 4
 default_border pixel 1
 font pango:DejaVu Sans
